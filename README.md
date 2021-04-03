@@ -26,7 +26,7 @@ This image is specifically built for ARM64. It won't work in X86
 
 ## Where is the docker image
 
-ponte124/filerun:latest-arm64v8
+[ponte124/filerun:latest-arm64v8](https://hub.docker.com/r/ponte124/filerun)
 
 ## What's inside
 
